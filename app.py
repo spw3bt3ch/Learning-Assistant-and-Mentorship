@@ -67,7 +67,6 @@ with tab3:
 
     if submitted:
       if goal:
-        user_response = st.text_input('Type your response here')
 
         url = "https://open-ai21.p.rapidapi.com/conversationllama"
 
